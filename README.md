@@ -1,5 +1,5 @@
 # Define Me
-#### Video Demo: youtube.com/
+#### Video Demo: https://youtu.be/D1JptfgquHM
 #### Description:
 Define Me is a multi-browser extension that can look up the definition to any word you can click on the internet. By pulling from [Dictionaryapi.dev](https://dictionaryapi.dev/) this extension uses [p5.js](https://p5js.org/) to generate definitions on the fly.
 
